@@ -1,0 +1,15 @@
+drop table if exists salary_history;
+drop table if exists vacation_request;
+drop table if exists user_vacation;
+drop table if exists vacation_type;
+drop table if exists dismissal;
+drop table if exists user_note;
+drop table if exists meeting;
+drop table if exists user_ambitions;
+drop table if exists events_history;
+drop table if exists event_type;
+drop table if exists "user";
+drop table if exists role;
+drop table if exists team;
+drop table if exists department;
+drop table if exists division;
